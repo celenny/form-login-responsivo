@@ -1,5 +1,5 @@
 # form-login-responsivo
-Formulário  login responsivo com HTML  e CSS inspirado no projeto do deseenvolvedora Front-End Giovanna (girl.coding) 
+Formulário  login responsivo com HTML  e CSS inspirado no projeto do desenvolvedora Front-End Giovanna (girl.coding) 
 
 ## Visão geral do projeto:
 ![form-responsivo](https://user-images.githubusercontent.com/70456452/167295034-f7614798-afea-49c2-bbbc-0baa48c61b52.png)
